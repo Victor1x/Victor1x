@@ -21,6 +21,7 @@
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=compact&langs_count=7&theme=algolia"/>
     </a>
 </div>
+
 ## 🛠 Principais tecnologias
 
 | Marcação/Estilização | Linguagens/Techs | Bibliotecas/Frameworks | Banco de Dados | ORM's/ODM's | Outras Ferramentas |
