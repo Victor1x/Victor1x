@@ -5,7 +5,7 @@
 - Sou desenvolvedor Front-end.
 - Atualmente estou estudando Javascript.
 - Acesse meu portfólio:
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googleearth&logoColor=4285F4)]()
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googleearth&logoColor=4285F4)](https://tupis.github.io/portfolio/)
 
 ## 📞 Contato
 
@@ -22,6 +22,12 @@
     </a>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="marlene-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="marlene-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="marlene-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 ## 🛠 Principais tecnologias
 
 | Marcação/Estilização | Linguagens/Techs | Bibliotecas/Frameworks | Banco de Dados | ORM's/ODM's | Outras Ferramentas |
@@ -29,3 +35,4 @@
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |  | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |  |  |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |  |  |  |  |  |
 | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |  |  |  |  |  |
+
