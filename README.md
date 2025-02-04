@@ -36,3 +36,8 @@
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |  |  |  |  |  |
 | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |  |  |  |  |  |
 
+<img src="https://raw.githubusercontent.com/Victor1x/Victor1x/output/snake.svg" alt="Snake animation" />
+
+###
+
+
