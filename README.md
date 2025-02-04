@@ -39,5 +39,4 @@
 
 <img src="https://raw.githubusercontent.com/Victor1x/Victor1x/output/snake.svg" alt="Snake animation" />
 
-###
 
