@@ -37,5 +37,7 @@
 | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |  |  |  |  |  |
 
 
+<img src="https://raw.githubusercontent.com/Victor1x/Victor1x/output/snake.svg" alt="Snake animation" />
 
+###
 
