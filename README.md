@@ -5,7 +5,7 @@
 - Sou desenvolvedor Front-end.
 - Atualmente estou estudando Javascript.
 - Acesse meu portfólio:
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googleearth&logoColor=4285F4)](https://tupis.github.io/portfolio/)
+ <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googleearth&logoColor=4285F4)](https://tupis.github.io/portfolio/)-->
 
 ## 📞 Contato
 
