@@ -19,11 +19,10 @@
 
 <div align="center">
   <a href="https://github.com/Victor1x">
-    <img height="200em" width="70%"  src="https://github-readme-stats.vercel.app/api?username=Victor1x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="200em" width="65%"  src="https://github-readme-stats.vercel.app/api?username=Victor1x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="200em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=donut&theme=github_dark"/>
   </a>
 </div>
-width="30%"
 
 ## 🛠 Principais Tecnologias
 
