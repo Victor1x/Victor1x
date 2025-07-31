@@ -17,17 +17,13 @@
 
 ## ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td width="70%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Victor1x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=compact&langs_count=7&theme=github_dark" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <a href="https://github.com/Victor1x">
+    <img height="200em" width="70%"  src="https://github-readme-stats.vercel.app/api?username=Victor1x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=donut&theme=github_dark"/>
+  </a>
+</div>
+width="30%"
 
 ## 🛠 Principais Tecnologias
 
