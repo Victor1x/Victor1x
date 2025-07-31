@@ -20,6 +20,8 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=compact&langs_count=7&theme=github_dark"/>
     </a>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
 <a href="https://github.com/Victor1x">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Victor1x&show_icons=true&theme=github_dark&count_private=true" />
