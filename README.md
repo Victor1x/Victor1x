@@ -46,10 +46,3 @@
 
 ---
 
-### 👀 Observações
-
-- ✅ Corrigi o link do **LinkedIn**, que estava apontando para o Instagram.
-- 🧹 Removi duplicações nos blocos de estatísticas do GitHub.
-- ✨ Adicionei melhorias visuais e seções bem definidas.
-
-Se quiser, posso gerar uma prévia com esse `README.md` renderizado ou incluir mais coisas como: badge de visitante, GitHub trophies, roadmap de estudos, etc. Deseja?
