@@ -2,8 +2,8 @@
 
 #### Me chamo João Victor.
 
-- Sou desenvolvedor Front-end.
-- Atualmente estou estudando Javascript.
+- Desenvolvedor Front-End em constante evolução.
+- Atualmente aprofundando meus conhecimentos em PHP.
 - Acesse meu portfólio:
 
 ## 📞 Contato
@@ -14,7 +14,7 @@
 
 ## ⚙️ GitHub Analytics
 
-<div align="center">
+<div >
     <a href="https://github.com/Victor1x">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor1x&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=compact&langs_count=7&theme=algolia"/>
