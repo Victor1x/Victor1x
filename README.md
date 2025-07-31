@@ -21,16 +21,10 @@
 <div align="center">
   <a href="https://github.com/Victor1x">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor1x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=donut&theme=github_dark"/>
   </a>
 </div>
 
-<!-- Gráfico de rosca -->
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor1x&layout=donut&theme=github_dark"/>
-</div>
-
----
 
 ## 🛠 Principais Tecnologias
 
