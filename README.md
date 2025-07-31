@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor Front-End em constante evolução  
 - 🚀 Atualmente aprofundando meus conhecimentos em **PHP**  
-- 🌐 Acesse meu portfólio: [seu-link-aqui](#)
+- 🌐 Acesse meu portfólio:
 
 ---
 
